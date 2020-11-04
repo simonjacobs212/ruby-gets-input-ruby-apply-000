@@ -2,4 +2,4 @@
 
 require_relative '../lib/hello_ruby_programmer.rb'
 
-greeting(Simon)
+greeting("Simon")
